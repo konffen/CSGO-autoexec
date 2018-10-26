@@ -22,14 +22,10 @@ Enter launch options at
 [buyscript.cfg](buyscript.cfg)
 
 
-[autoexec.cfg](autoexec.cfg) - Contains all my personal tweaks and some binds. WARNING: autoexec.cfg contains:
-
+[autoexec.cfg](autoexec.cfg) - Contains all my personal tweaks and some binds. WARNING: contains:
 -CUSTOM CROSSHAIR
-
 -CUSTOM VIEWMODEL
-
 -CUSTOM SOUND SETTINGS FOR 4:3 FOV
-
 -CUSTOM SCOREBOARD BIND WITH NETGRAPH TOGGLE
 
 Remove those parts or use autoexec_stripped.cfg!
