@@ -40,37 +40,42 @@ Run driver 378.49 for most FPS on older CPU's.
 
 #### **Global**
 
-DSR - Factors    Off
+Feature | Setting
+------------ | -------------
+DSR - Factors   |   Off
 
 
 #### **Program Settings**
 
 csgo.exe
 
-Ambient Occlusion					Off
+Feature | Setting
+------------ | -------------
 
-Antialiasing - Gamma correction		Off
+Ambient Occlusion	|   Off
 
-Maximum pre-rendered frames			1
+Antialiasing - Gamma correction |   Off
 
-Power management mode               Prefer maximum performance
+Maximum pre-rendered frames	| 1
 
-Preferred refresh rate              Highest available
+Power management mode   |   Prefer maximum performance
 
-Shader Cache                        Off
+Preferred refresh rate  |   Highest available
 
-Texture filtering - Anistropic sample optimization          On
+Shader Cache    |   Off
 
-Texture filtering - Negative LOD bias                       Clamp
+Texture filtering - Anistropic sample optimization  |   On
 
-Texture filtering - Quality                                 High performance
+Texture filtering - Negative LOD bias  |   Clamp
 
-Texture filtering - Trilinear optimization                  On
+Texture filtering - Quality  |   High performance
 
-Threaded optimization                                       On
+Texture filtering - Trilinear optimization  |   On
 
-Triple buffering                                            Off
+Threaded optimization  |   On
 
-Vertical Sync                                               Off
+Triple buffering  |   Off
 
-Virtual Reality pre-rendered frames                         1
+Vertical Sync  |   Off
+
+Virtual Reality pre-rendered frames  |   1
