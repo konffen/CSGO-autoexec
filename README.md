@@ -37,6 +37,7 @@ Enter launch options at
 *Good luck changing these if your system language is Finnish* 
 
 Run NVIDIA GeForce Game Ready Driver Version: 378.49 for most FPS on older CPU's. 
+
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
 
 #### **Global**
