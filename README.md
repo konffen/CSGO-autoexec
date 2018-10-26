@@ -35,7 +35,9 @@ Enter launch options at
 Run driver 378.49 for most FPS on older CPU's.
 
 **Global**
+
 DSR - Factors    Off
+
 
 **Program Settings**
 
