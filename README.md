@@ -70,6 +70,8 @@ Virtual Reality pre-rendered frames  |   1
 
 https://www.guru3d.com/files-details/nvidia-inspector-download.html
 
+**Profiles:** *Counter-strike: Global Offensive*
+
 Feature | Setting
 ------------ | -------------
 Frame Rate Limiter 2 Control | 0x00000004 PS_FRAMERATE_LIMITER_2_CONTROL_DELAY_FLIP_BY_FLIPMETERING
