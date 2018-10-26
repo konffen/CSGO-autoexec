@@ -2,7 +2,7 @@
 My personal settings &amp; some recommended sane defaults
 
 ### Launch Options
-[Launch Options](launchoptions.txt)
+  -language textmodorel -tickrate 128 -novid -nod3d9ex -console +mat_queue_mode 2 +exec autoexec.cfg -nojoy -threads 4
 
 Enter launch options at
 `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
