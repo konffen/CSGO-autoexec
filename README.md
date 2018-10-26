@@ -2,7 +2,8 @@
 My personal settings &amp; some recommended sane defaults
 
 ### Launch Options
-	[Launch Options](launchoptions.txt)
+[Launch Options](launchoptions.txt)
+	Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
 [Buyscript](buyscript.cfg)
 
