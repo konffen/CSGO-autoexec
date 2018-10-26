@@ -41,8 +41,8 @@ DSR - Factors    Off
 
 csgo.exe
 
-Ambient Occlusion                Off
+Ambient Occlusion					Off
 
-Antialiasing - Gamma correction  Off
+Antialiasing - Gamma correction		Off
 
-Maximum pre-rendered frames      1
+Maximum pre-rendered frames			1
