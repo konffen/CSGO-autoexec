@@ -5,4 +5,4 @@ My personal settings &amp; some recommended sane defaults
 
 [Buyscript](buyscript.cfg)
 
-[Autoexec](autoexec.cfg)
+[Autoexec](autoexec.cfg) - Contains all my personal tweaks and some binds, use the stripped version for a more general "sane defaults"-version.
