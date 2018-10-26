@@ -51,7 +51,6 @@ csgo.exe
 
 Feature | Setting
 ------------ | -------------
-
 Ambient Occlusion	|   Off
 
 Antialiasing - Gamma correction |   Off
