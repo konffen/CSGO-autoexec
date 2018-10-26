@@ -52,29 +52,24 @@ csgo.exe
 Feature | Setting
 ------------ | -------------
 Ambient Occlusion	|   Off
-
 Antialiasing - Gamma correction |   Off
-
 Maximum pre-rendered frames	| 1
-
 Power management mode   |   Prefer maximum performance
-
 Preferred refresh rate  |   Highest available
-
 Shader Cache    |   Off
-
 Texture filtering - Anistropic sample optimization  |   On
-
 Texture filtering - Negative LOD bias  |   Clamp
-
 Texture filtering - Quality  |   High performance
-
 Texture filtering - Trilinear optimization  |   On
-
 Threaded optimization  |   On
-
 Triple buffering  |   Off
-
 Vertical Sync  |   Off
-
 Virtual Reality pre-rendered frames  |   1
+
+### NVIDIA Profile Inspector
+
+https://www.guru3d.com/files-details/nvidia-inspector-download.html
+
+Feature | Setting
+------------ | -------------
+Frame Rate Limiter 2 Control | 0x00000004 PS_FRAMERATE_LIMITER_2_CONTROL_DELAY_FLIP_BY_FLIPMETERING
