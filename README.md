@@ -26,3 +26,19 @@ Enter launch options at
 
 [Video Settings](video.txt) - I play at 1280x960 4:3 Stretched, with "fancy" detail settings on GTX 1060
 
+
+
+### NVIDIA Control Panel Settings
+
+*Good luck changing these if your system language is Finnish* 
+
+Run driver 378.49 for most FPS on older CPU's.
+
+**Global**
+DSR - Factors    Off
+
+**Program Settings**
+csgo.exe
+Ambient Occlusion                Off
+Antialiasing - Gamma correction  Off
+Maximum pre-rendered frames      1
