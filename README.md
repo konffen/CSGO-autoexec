@@ -36,7 +36,8 @@ Enter launch options at
 
 *Good luck changing these if your system language is Finnish* 
 
-Run NVIDIA GeForce Game Ready Driver Version: 378.49 for most FPS on older CPU's.
+Run NVIDIA GeForce Game Ready Driver Version: 378.49 for most FPS on older CPU's. 
+Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
 
 #### **Global**
 
@@ -67,8 +68,9 @@ Vertical Sync  |   Off
 Virtual Reality pre-rendered frames  |   1
 
 ### NVIDIA Profile Inspector
+Download: https://www.guru3d.com/files-details/nvidia-inspector-download.html
 
-https://www.guru3d.com/files-details/nvidia-inspector-download.html
+Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
 
 **Profiles:** *Counter-strike: Global Offensive*
 
