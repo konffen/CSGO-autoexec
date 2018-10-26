@@ -38,7 +38,11 @@ Run driver 378.49 for most FPS on older CPU's.
 DSR - Factors    Off
 
 **Program Settings**
+
 csgo.exe
+
 Ambient Occlusion                Off
+
 Antialiasing - Gamma correction  Off
+
 Maximum pre-rendered frames      1
