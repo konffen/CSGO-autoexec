@@ -48,3 +48,18 @@ Ambient Occlusion					Off
 Antialiasing - Gamma correction		Off
 
 Maximum pre-rendered frames			1
+
+Power management mode               Prefer maximum performance
+
+Preferred refresh rate              Highest available
+
+Shader Cache                        Off
+
+Texture filtering - Anistropic sample optimization          On
+Texture filtering - Negative LOD bias                       Clamp
+Texture filtering - Quality                                 High performance
+Texture filtering - Trilinear optimization                  On
+Threaded optimization                                       On
+Triple buffering                                            Off
+Vertical Sync                                               Off
+Virtual Reality pre-rendered frames                         1
