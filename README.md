@@ -5,6 +5,10 @@ My personal settings &amp; some recommended sane defaults
 ### Launch Options
     -language textmodorel -tickrate 128 -novid -nod3d9ex -console +mat_queue_mode 2 +exec autoexec.cfg -nojoy -threads 4
 
+Required for "-language textmodorel": https://gamebanana.com/gamefiles/3711
+
+Change to -tickrate 64 if you want to practice smokes for Valve MM
+
 Enter launch options at
 `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
