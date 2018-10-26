@@ -10,7 +10,7 @@ Enter launch options at
 
 
 
-### Config files
+### Config Files
 
 *video.txt and all .cfg files* needs to be put in `...\Steam\userdata\<Steam3 ID>\730\local\cfg`
 
