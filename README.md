@@ -77,3 +77,15 @@ Use these settings to minimize input lag and make the game feel more responsive/
 Feature | Setting
 ------------ | -------------
 Frame Rate Limiter 2 Control | 0x00000004 PS_FRAMERATE_LIMITER_2_CONTROL_DELAY_FLIP_BY_FLIPMETERING
+
+### Other tweaks?
+If you are using Win 10 disable Game Bar, Xbox DVR, Focus Assist and all other annoying FPS-stealing bullshit.
+
+#### HPET
+Try to Enable/Disable HPET in BIOS/UEFI.
+
+Related tools:
+https://vvvv.org/contribution/windows-system-timer-tool
+
+#### Check for latency issues
+http://www.resplendence.com/latencymon
