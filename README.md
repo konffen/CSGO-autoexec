@@ -25,7 +25,7 @@ Enter launch options at
 [autoexec.cfg](autoexec.cfg) - Contains all my personal tweaks and some binds.
 
 
-[autoexec_stripped.cfg](autoexec.cfg) - Stripped version for a more general "sane defaults"-version, rename to autoexec.cfg
+[autoexec_stripped.cfg](autoexec_stripped.cfg) - Stripped version for a more general "sane defaults"-version, rename to autoexec.cfg
 
 
 [Video Settings](video.txt) - I play at 1280x960 4:3 Stretched, with "fancy" detail settings on GTX 1060
