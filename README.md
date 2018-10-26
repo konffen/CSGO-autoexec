@@ -7,6 +7,7 @@ My personal settings &amp; some recommended sane defaults
 Enter launch options at
 `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
+### Config files
 
 *video.txt and all .cfg files* needs to be put in `...\Steam\userdata\<Steam3 ID>\730\local\cfg`
 
