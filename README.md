@@ -36,7 +36,7 @@ Enter launch options at
 
 *Good luck changing these if your system language is Finnish* 
 
-Run driver 378.49 for most FPS on older CPU's.
+Run NVIDIA GeForce Game Ready Driver Version: 378.49 for most FPS on older CPU's.
 
 #### **Global**
 
