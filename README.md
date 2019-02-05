@@ -87,6 +87,7 @@ Frame Rate Limiter 2 Control | 0x00000004 PS_FRAMERATE_LIMITER_2_CONTROL_DELAY_F
 
 ### Other tweaks?
 If you are using Win 10 disable Game Bar, Xbox DVR, Focus Assist and all other annoying FPS-stealing bullshit.
+Or just use https://github.com/W4RH4WK/Debloat-Windows-10
 
 #### HPET
 Try to Enable/Disable HPET in BIOS/UEFI.
