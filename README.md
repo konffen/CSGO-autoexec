@@ -3,7 +3,11 @@ My personal settings &amp; some recommended sane defaults
 
 
 ### Launch Options
+    -language textmodorel -tickrate 128 -novid +exec autoexec.cfg -nojoy
+
+### Launch Options (old, Valve says "use less or none" so trying the above for now)
     -language textmodorel -tickrate 128 -novid -nod3d9ex -console +mat_queue_mode 2 +exec autoexec.cfg -nojoy -threads 4
+
 
 Required for "-language textmodorel": https://gamebanana.com/gamefiles/3711
 
