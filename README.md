@@ -3,7 +3,7 @@ My personal settings &amp; some recommended sane defaults
 
 
 ### Launch Options
-    -language textmodorel -tickrate 128 -novid +exec autoexec.cfg -nojoy
+    -language textmodorel -tickrate 128 -novid +exec autoexec.cfg -nojoy -d3d9ex
 
 ### Launch Options (old, Valve says "use less or none" so trying the above for now)
     -language textmodorel -tickrate 128 -novid -nod3d9ex -console +mat_queue_mode 2 +exec autoexec.cfg -nojoy -threads 4
@@ -16,6 +16,8 @@ Change to -tickrate 64 if you want to practice smokes for Valve MM
 Enter launch options at
 `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
+FINALLY we can Alt+Tab fast!
+`– Added an optional -d3d9ex command line switch to reduce CPU memory use by about 40%.`
 
 
 ### Config Files
