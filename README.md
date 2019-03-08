@@ -91,7 +91,7 @@ Feature | Setting
 ------------ | -------------
 Frame Rate Limiter 2 Control | 0x00000004 PS_FRAMERATE_LIMITER_2_CONTROL_DELAY_FLIP_BY_FLIPMETERING
 
-You can also just import my profile: [Counter-strike%20Global%20Offensive.nip](Counter-strike Global Offensive.nip)
+You can also just import my profile: [Counter-strike Global Offensive.nip](Counter-strike Global Offensive.nip)
 
 ### Other tweaks?
 If you are using Win 10 disable Game Bar, Xbox DVR, Focus Assist and all other annoying FPS-stealing bullshit.
