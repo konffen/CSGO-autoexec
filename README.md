@@ -81,7 +81,7 @@ Vertical Sync  |   Off
 Virtual Reality pre-rendered frames  |   1
 
 ### NVIDIA Profile Inspector
-Download: https://www.guru3d.com/files-details/nvidia-inspector-download.html
+Download: https://github.com/Orbmu2k/nvidiaProfileInspector/releases
 
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
 
