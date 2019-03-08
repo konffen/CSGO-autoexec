@@ -67,7 +67,7 @@ Feature | Setting
 ------------ | -------------
 Ambient Occlusion	|   Off
 Antialiasing - Gamma correction |   Off
-Maximum pre-rendered frames	| 1
+Maximum pre-rendered frames	| 3
 Power management mode   |   Prefer maximum performance
 Preferred refresh rate  |   Highest available
 Shader Cache    |   Off
@@ -90,6 +90,8 @@ Use these settings to minimize input lag and make the game feel more responsive/
 Feature | Setting
 ------------ | -------------
 Frame Rate Limiter 2 Control | 0x00000004 PS_FRAMERATE_LIMITER_2_CONTROL_DELAY_FLIP_BY_FLIPMETERING
+
+You can also just import my profile: [Counter-strike Global Offensive.nip](Counter-strike Global Offensive.nip)
 
 ### Other tweaks?
 If you are using Win 10 disable Game Bar, Xbox DVR, Focus Assist and all other annoying FPS-stealing bullshit.
