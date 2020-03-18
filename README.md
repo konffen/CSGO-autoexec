@@ -45,7 +45,9 @@ Remove those parts or use autoexec_stripped.cfg!
 
 *Good luck changing these if your system language is Finnish* 
 
-Run NVIDIA GeForce Driver Version: 378.49 for most FPS on older CPU's. Version 387.92 also seems to be recommended. 
+Run NVIDIA GeForce Driver Version: 441.41
+Debloated by FR33THY, no GeForce Experience, no Telemetry no bullshit!
+https://drive.google.com/open?id=1o6VsqHr_Eo09V849a8UXUK37IAv8sieW
 
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
 
