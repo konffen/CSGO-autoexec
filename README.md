@@ -51,6 +51,10 @@ https://drive.google.com/open?id=1o6VsqHr_Eo09V849a8UXUK37IAv8sieW
 
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
 
+Make sure your Graphics Card is using MSI mode:
+https://github.com/CHEF-KOCH/MSI-utility/releases/download/2.0/MSI_util_v2.zip
+
+
 #### **Global**
 
 Feature | Setting
