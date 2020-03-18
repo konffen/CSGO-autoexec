@@ -94,9 +94,13 @@ Or just use https://github.com/W4RH4WK/Debloat-Windows-10
 
 #### HPET
 Disable HPET in Windows! Run CMD as Admin:
+
 bcdedit /deletevalue useplatformclock
+
 bcdedit /set useplatformtick yes
+
 bcdedit /set disabledynamictick yes
+
 
 Reboot after!
 
