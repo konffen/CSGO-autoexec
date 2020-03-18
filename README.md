@@ -3,10 +3,7 @@ My personal settings &amp; some recommended sane defaults
 
 
 ### Launch Options
-    -language textmodorel -tickrate 128 -novid +exec autoexec.cfg -nojoy -d3d9ex
-
-### Launch Options (old, Valve says "use less or none" so trying the above for now)
-    -language textmodorel -tickrate 128 -novid -nod3d9ex -console +mat_queue_mode 2 +exec autoexec.cfg -nojoy -threads 4
+    -language textmodorel -tickrate 128 -novid +exec autoexec.cfg -nojoy
 
 
 Required for "-language textmodorel": https://gamebanana.com/gamefiles/3711
@@ -60,48 +57,49 @@ DSR - Factors   |   Off
 
 
 #### **Program Settings**
+`Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Local Files > Browse Local Files`
 
-csgo.exe
+Right click csgo.exe and:
+`Compatibility > [x] Disable fullscreen optimizations`
 
 Feature | Setting
 ------------ | -------------
 Ambient Occlusion	|   Off
 Antialiasing - Gamma correction |   Off
-Maximum pre-rendered frames	| 3
+Low Latency Mode	| On
 Power management mode   |   Prefer maximum performance
 Preferred refresh rate  |   Highest available
 Shader Cache    |   Off
 Texture filtering - Anistropic sample optimization  |   On
-Texture filtering - Negative LOD bias  |   Clamp
+Texture filtering - Negative LOD bias  |   Allow
 Texture filtering - Quality  |   High performance
 Texture filtering - Trilinear optimization  |   On
-Threaded optimization  |   On
+Threaded optimization  |   Auto
 Triple buffering  |   Off
 Vertical Sync  |   Off
 Virtual Reality pre-rendered frames  |   1
 
-### NVIDIA Profile Inspector
+### csgo.exe Properties
 Download: https://github.com/Orbmu2k/nvidiaProfileInspector/releases
 
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
 
-**Profiles:** *Counter-strike: Global Offensive*
 
-Feature | Setting
------------- | -------------
-Frame Rate Limiter 2 Control | 0x00000004 PS_FRAMERATE_LIMITER_2_CONTROL_DELAY_FLIP_BY_FLIPMETERING
-
-You can also just import my profile: [CSGO-2019.nip](CSGO-2019.nip)
 
 ### Other tweaks?
 If you are using Win 10 disable Game Bar, Xbox DVR, Focus Assist and all other annoying FPS-stealing bullshit.
 Or just use https://github.com/W4RH4WK/Debloat-Windows-10
 
 #### HPET
-Try to Enable/Disable HPET in BIOS/UEFI.
+Disable HPET in Windows! Run CMD as Admin:
+bcdedit /deletevalue useplatformclock
+bcdedit /set useplatformtick yes
+bcdedit /set disabledynamictick yes
 
-Related tools:
-https://vvvv.org/contribution/windows-system-timer-tool
+Reboot after!
+
+Use Intelligent standby list cleaner (ISLC) to force 0.50 ms timer:
+https://www.wagnardsoft.com/ISLC/ISLC%20v1.0.2.2.exe
 
 #### Check for latency issues
 http://www.resplendence.com/latencymon
