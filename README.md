@@ -63,10 +63,6 @@ DSR - Factors   |   Off
 
 
 #### **Program Settings**
-`Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Local Files > Browse Local Files`
-
-Right click csgo.exe and:
-`Compatibility > [x] Disable fullscreen optimizations`
 
 Feature | Setting
 ------------ | -------------
@@ -86,7 +82,10 @@ Vertical Sync  |   Off
 Virtual Reality pre-rendered frames  |   1
 
 ### csgo.exe Properties
-Download: https://github.com/Orbmu2k/nvidiaProfileInspector/releases
+`Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Local Files > Browse Local Files`
+
+Right click csgo.exe and:
+`Compatibility > [x] Disable fullscreen optimizations`
 
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
 
