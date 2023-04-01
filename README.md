@@ -80,6 +80,7 @@ Vertical Sync  |   Off
 
 Right click csgo.exe and:
 `Compatibility > [x] Disable fullscreen optimizations`
+
 `Change high DPI settings> [x] Override high DPI scaling behavior. Scaling performed by: Application`
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
 
