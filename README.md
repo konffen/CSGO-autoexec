@@ -37,7 +37,8 @@ Remove those parts or use autoexec_stripped.cfg!
 [autoexec_stripped.cfg](autoexec_stripped.cfg) - Stripped version for a more general "sane defaults"-version, rename to autoexec.cfg
 
 
-[Video Settings](video.txt) - I play at 4:3 Stretched, 1440x1080, fullscreen stretched, with "fancy" detail settings on GTX 1060
+### Ingame Video Settings
+[Video Settings](video.txt) - I play at 4:3 Stretched, 1440x1080, fullscreen stretched, with "fancy" detail settings on GTX 1060, these should give you the biggest visual advantage with least amount of fps lost. Benchmark reference: https://www.youtube.com/watch?v=e2e26BGdPxk
 
 Advanced Video | Setting
 ------------ | -------------
