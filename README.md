@@ -3,7 +3,7 @@ My personal settings &amp; some recommended sane defaults
 
 
 ### Launch Options
-    -language textmodorel -tickrate 128 -novid +exec autoexec.cfg -nojoy
+   -language textmodorel -novid -nojoy -nothreadedsockets -softparticlesdefaultoff -tickrate 128
 
 
 Required for "-language textmodorel": https://gamebanana.com/gamefiles/3711
