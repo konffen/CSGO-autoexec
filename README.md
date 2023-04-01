@@ -42,14 +42,19 @@ Remove those parts or use autoexec_stripped.cfg!
 Advanced Video | Setting
 ------------ | -------------
 Global Shadow Quality:    |   Medium
-A   |   High
-A   |   Disabled
-A   |   High
-A   |   High
-A   |   Enabled
-A   |   Enabled
+Model / Texture Detail   |   High
+Texture Streaming   |   Disabled
+Effect Detail   |   High
+Shader Detail   |   High
+Boost Player Contrast   |   Enabled
+Multicore Rendering   |   Enabled
 Anti-Aliasing   |   4X MSAA
 FXAA   |   Disabled
+Vertical Sync   |   Disabled
+Motion Blur   |   Disabled
+Triple-Monitor   |   Disabled
+Uber Shaders   |   Enabled
+   
 
 ### NVIDIA Control Panel Settings
 
