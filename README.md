@@ -82,6 +82,8 @@ Right click csgo.exe and:
 `Compatibility > [x] Disable fullscreen optimizations`
 
 `Change high DPI settings> [x] Override high DPI scaling behavior. Scaling performed by: Application`
+
+
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
 
 
@@ -89,6 +91,12 @@ Use these settings to minimize input lag and make the game feel more responsive/
 ### Other tweaks?
 If you are using Win 10 disable Game Bar, Xbox DVR, Focus Assist and all other annoying FPS-stealing bullshit.
 Or just use https://github.com/W4RH4WK/Debloat-Windows-10
+
+#### Disable HDCP
+`[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]`
+
+`"RMHdcpKeyglobZero"=dword:00000001`
+
 
 #### HPET
 Disable HPET in Windows! Run CMD as Admin:
