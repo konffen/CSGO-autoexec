@@ -1,1 +1,1 @@
--language textmodorel -tickrate 128 -novid -nod3d9ex -console +mat_queue_mode 2 +exec autoexec.cfg -nojoy -threads 4
+-language textmodorel -novid -nojoy -nothreadedsockets -softparticlesdefaultoff -tickrate 128
