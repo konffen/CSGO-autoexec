@@ -45,14 +45,10 @@ Remove those parts or use autoexec_stripped.cfg!
 
 *Good luck changing these if your system language is Finnish* 
 
-Run NVIDIA GeForce Driver Version: 441.41
-Debloated by FR33THY, no GeForce Experience, no Telemetry no bullshit!
-https://drive.google.com/open?id=1o6VsqHr_Eo09V849a8UXUK37IAv8sieW
+Install your NVIDIA GeForce Driver with NVCleanstall
+Debloated, in Expert Settings enable MSI mode & Disable HDCP for lowest input lag, skip GeForce Experience, Telemetry & other bullshit!
 
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
-
-Make sure your Graphics Card is using MSI mode:
-https://github.com/CHEF-KOCH/MSI-utility/releases/download/2.0/MSI_util_v2.zip
 
 
 #### **Global**
