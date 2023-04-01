@@ -61,7 +61,7 @@ Uber Shaders   |   Enabled
 
 *Good luck changing these if your system language is Finnish* 
 
-Install your NVIDIA GeForce Driver using [https://www.techpowerup.com/download/techpowerup-nvcleanstall/](NVCleanstall). In Expert Settings make sure to Enable MSI-mode & Disable HDCP for lowest input lag, skip GeForce Experience, Telemetry & other bullshit!
+Install your NVIDIA GeForce Driver using [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/). In Expert Settings make sure to Enable MSI-mode & Disable HDCP for lowest input lag, skip GeForce Experience, Telemetry & other bullshit!
 
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters. Import [wgeforce.nip](wgeforce.nip) and apply settings with nvidiaProfileInspector first, after that make your personal adjustments.
 
