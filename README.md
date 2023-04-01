@@ -37,9 +37,19 @@ Remove those parts or use autoexec_stripped.cfg!
 [autoexec_stripped.cfg](autoexec_stripped.cfg) - Stripped version for a more general "sane defaults"-version, rename to autoexec.cfg
 
 
-[Video Settings](video.txt) - I play at 1280x960 4:3 Stretched, with "fancy" detail settings on GTX 1060
+[Video Settings](video.txt) - I play at 4:3 Stretched, 1440x1080, fullscreen stretched, with "fancy" detail settings on GTX 1060
 
-
+Advanced Video | Setting
+------------ | -------------
+Global Shadow Quality:    |   Medium
+A   |   High
+A   |   Disabled
+A   |   High
+A   |   High
+A   |   Enabled
+A   |   Enabled
+Anti-Aliasing   |   4X MSAA
+FXAA   |   Disabled
 
 ### NVIDIA Control Panel Settings
 
