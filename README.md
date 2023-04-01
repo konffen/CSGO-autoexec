@@ -45,8 +45,7 @@ Remove those parts or use autoexec_stripped.cfg!
 
 *Good luck changing these if your system language is Finnish* 
 
-Install your NVIDIA GeForce Driver with NVCleanstall
-Debloated, in Expert Settings enable MSI mode & Disable HDCP for lowest input lag, skip GeForce Experience, Telemetry & other bullshit!
+Install your NVIDIA GeForce Driver using NVCleanstall. In Expert Settings make sure to Enable MSI-mode & Disable HDCP for lowest input lag, skip GeForce Experience, Telemetry & other bullshit!
 
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
 
