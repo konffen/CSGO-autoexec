@@ -47,7 +47,7 @@ Remove those parts or use autoexec_stripped.cfg!
 
 Install your NVIDIA GeForce Driver using NVCleanstall. In Expert Settings make sure to Enable MSI-mode & Disable HDCP for lowest input lag, skip GeForce Experience, Telemetry & other bullshit!
 
-Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
+Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters. Import [wgeforce.nip](wgeforce.nip) and apply settings with nvidiaProfileInspector first, after that make your personal adjustments.
 
 
 #### **Global**
@@ -63,25 +63,24 @@ Feature | Setting
 ------------ | -------------
 Ambient Occlusion	|   Off
 Antialiasing - Gamma correction |   Off
-Low Latency Mode	| On
+Low Latency Mode	| Ultra
 Power management mode   |   Prefer maximum performance
 Preferred refresh rate  |   Highest available
-Shader Cache    |   Off
+Shader Cache Size    |   Unlimited
 Texture filtering - Anistropic sample optimization  |   On
 Texture filtering - Negative LOD bias  |   Allow
 Texture filtering - Quality  |   High performance
 Texture filtering - Trilinear optimization  |   On
-Threaded optimization  |   Auto
+Threaded optimization  |   Off
 Triple buffering  |   Off
 Vertical Sync  |   Off
-Virtual Reality pre-rendered frames  |   1
 
 ### csgo.exe Properties
 `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Local Files > Browse Local Files`
 
 Right click csgo.exe and:
 `Compatibility > [x] Disable fullscreen optimizations`
-
+`Change high DPI settings> [x] Override high DPI scaling behavior. Scaling performed by: Application`
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters.
 
 
