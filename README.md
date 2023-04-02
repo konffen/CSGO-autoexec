@@ -117,7 +117,7 @@ Or just use https://github.com/W4RH4WK/Debloat-Windows-10
 
 ### Control flow guard
 Disables Windows Defender from scanning through game files...
-`Win -> Exploit protection (System settings) -> Program settings -> + Choose exact file path -> Browse to csgo.exe -> Control flow guard (CFG) -> [x] Override system settings -> Off -> Apply!`
+`Win -> Exploit protection (System settings) -> Program settings -> + Add program to customize -> Choose exact file path -> Browse to csgo.exe -> Control flow guard (CFG) -> [x] Override system settings -> Off -> Apply!`
 
 
 #### HPET
