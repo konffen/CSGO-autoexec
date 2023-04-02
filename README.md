@@ -115,6 +115,10 @@ Or just use https://github.com/W4RH4WK/Debloat-Windows-10
 
 `"RMHdcpKeyglobZero"=dword:00000001`
 
+### Control flow guard
+Disables Windows Defender from scanning through game files...
+`Win -> Exploit protection (System settings) -> Program settings -> + Choose exact file path -> Browse to csgo.exe -> Control flow guard (CFG) -> [x] Override system settings -> Off -> Apply!`
+
 
 #### HPET
 Disable HPET in Windows! Run CMD as Admin:
