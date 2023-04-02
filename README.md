@@ -65,7 +65,7 @@ Uber Shaders   |   Enabled
 
 Install your NVIDIA GeForce Driver using [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/). Under `[x] Show Expert Tweaks` select `[x] Enable Message Signaled Interrupts` & `[x] Disable HDCP` for lowest input lag, skip GeForce Experience, Telemetry & other bullshit!
 
-Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters. Import [wgeforce.nip](wgeforce.nip) and apply settings with nvidiaProfileInspector first, after that make your personal adjustments.
+Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters. Import [wgeforce.nip](wgeforce.nip) and apply settings with [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) first, after that make your personal adjustments.
 
 
 #### **Global**
