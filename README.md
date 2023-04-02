@@ -5,17 +5,16 @@ My personal settings &amp; some recommended sane defaults
 ### Launch Options
 `-language textmodorel -novid -nojoy -nothreadedsockets -softparticlesdefaultoff -tickrate 128`
 
+Enter launch options into the box here:
+`Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Launch Option`
 
 Required for "-language textmodorel":
 Put  [csgo_textmodorel.txt](csgo_textmodorel.txt) in 'csgo/resource' folder.
 
+Change to `-tickrate 64` if you want to practice smokes for Valve MM
 
-Change to -tickrate 64 if you want to practice smokes for Valve MM
+Add `-allow_third_party_software` if you want to use Game Capture in OBS Studio (won't allow you to play trusted MM)
 
-Add -allow_third_party_software if you want to use Game Capture in OBS Studio (won't allow you to play trusted MM)
-
-Enter launch options at
-`Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
 
 ### Config Files
