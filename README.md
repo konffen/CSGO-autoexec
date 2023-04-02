@@ -5,8 +5,10 @@ My personal settings &amp; some recommended sane defaults
 ### Launch Options
 `-language textmodorel -novid -nojoy -nothreadedsockets -softparticlesdefaultoff -tickrate 128`
 
+
 Enter launch options into the box here:
-`Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Launch Option`
+
+`Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Launch Options`
 
 Required for "-language textmodorel":
 Put  [csgo_textmodorel.txt](csgo_textmodorel.txt) in 'csgo/resource' folder.
