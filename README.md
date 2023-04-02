@@ -17,9 +17,6 @@ Add -allow_third_party_software if you want to use Game Capture in OBS Studio (w
 Enter launch options at
 `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
-FINALLY we can Alt+Tab fast!
-`– Added an optional -d3d9ex command line switch to reduce CPU memory use by about 40%.`
-
 
 ### Config Files
 
