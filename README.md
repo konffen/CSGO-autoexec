@@ -3,7 +3,7 @@ My personal settings &amp; some recommended sane defaults
 
 
 ### Launch Options
-   -language textmodorel -novid -nojoy -nothreadedsockets -softparticlesdefaultoff -tickrate 128
+`-language textmodorel -novid -nojoy -nothreadedsockets -softparticlesdefaultoff -tickrate 128`
 
 
 Required for "-language textmodorel":
