@@ -6,7 +6,9 @@ My personal settings &amp; some recommended sane defaults
    -language textmodorel -novid -nojoy -nothreadedsockets -softparticlesdefaultoff -tickrate 128
 
 
-Required for "-language textmodorel": https://gamebanana.com/gamefiles/3711
+Required for "-language textmodorel":
+Put  [csgo_textmodorel.txt](csgo_textmodorel.txt) in 'csgo/resource' folder.
+
 
 Change to -tickrate 64 if you want to practice smokes for Valve MM
 
