@@ -63,7 +63,7 @@ Uber Shaders   |   Enabled
 
 *Good luck changing these if your system language is Finnish* 
 
-Install your NVIDIA GeForce Driver using [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/). In Expert Settings make sure to Enable MSI-mode & Disable HDCP for lowest input lag, skip GeForce Experience, Telemetry & other bullshit!
+Install your NVIDIA GeForce Driver using [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/). Under `[x] Show Expert Tweaks` select `[x] Enable Message Signaled Interrupts` & `[x] Disable HDCP` for lowest input lag, skip GeForce Experience, Telemetry & other bullshit!
 
 Use these settings to minimize input lag and make the game feel more responsive/smooth and reduce microstutters. Import [wgeforce.nip](wgeforce.nip) and apply settings with nvidiaProfileInspector first, after that make your personal adjustments.
 
@@ -111,9 +111,12 @@ If you are using Win 10 disable Game Bar, Xbox DVR, Focus Assist and all other a
 Or just use https://github.com/W4RH4WK/Debloat-Windows-10
 
 #### Disable HDCP
+Regedit key below for manual edit, not needed if you install with NVCleanstall and tick `[x] Disable HDCP` under Expert Tweaks
+
 `[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]`
 
 `"RMHdcpKeyglobZero"=dword:00000001`
+
 
 ### Control flow guard
 Disables Windows Defender from scanning through game files...
