@@ -129,27 +129,29 @@ HPET has changed in newer Windows 10 releases, also some BIOS/UEFI force it on, 
 
 Old tweak method: Run CMD as Admin:
 
-```bcdedit /deletevalue useplatformclock
+`bcdedit /deletevalue useplatformclock`
 
-bcdedit /set useplatformtick yes
+`bcdedit /set useplatformtick yes`
 
-bcdedit /set disabledynamictick yes´´´
+`bcdedit /set disabledynamictick yes`
 
 
 
 New tweak method: Run CMD as Admin:
 
-```bcdedit /set nx optout
+`bcdedit /set nx optout`
 
-bcdedit /deletevalue useplatformtick
+`bcdedit /deletevalue useplatformtick`
 
-bcdedit /deletevalue useplatformclock
+`bcdedit /deletevalue useplatformclock`
 
-bcdedit /set disabledynamictick yes´´´
+`bcdedit /set disabledynamictick yes`
 
 
 
 Reboot after!
+
+
 
 Use Intelligent standby list cleaner (ISLC) to force 0.50 ms timer:
 https://www.wagnardsoft.com/ISLC/ISLC%20v1.0.2.2.exe
