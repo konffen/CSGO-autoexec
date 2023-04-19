@@ -127,17 +127,7 @@ Disables Windows Defender from scanning through game files...
 HPET has changed in newer Windows 10 releases, also some BIOS/UEFI force it on, some have a option for it, different results between Intel/AMD CPUs... your results may vary, don't touch or test both options.
 
 
-Old tweak method: Run CMD as Admin:
-
-`bcdedit /deletevalue useplatformclock`
-
-`bcdedit /set useplatformtick yes`
-
-`bcdedit /set disabledynamictick yes`
-
-
-
-New tweak method: Run CMD as Admin:
+##New tweak method: Run CMD as Admin:
 
 `bcdedit /set nx optout`
 
@@ -146,6 +136,18 @@ New tweak method: Run CMD as Admin:
 `bcdedit /deletevalue useplatformclock`
 
 `bcdedit /set disabledynamictick yes`
+
+
+
+~~##Old tweak method: Run CMD as Admin:~~ 
+
+~~`bcdedit /deletevalue useplatformclock`~~
+
+~~ `bcdedit /set useplatformtick yes`~~ 
+
+~~`bcdedit /set disabledynamictick yes`~~
+
+
 
 
 
