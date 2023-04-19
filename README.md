@@ -127,7 +127,7 @@ Disables Windows Defender from scanning through game files...
 HPET has changed in newer Windows 10 releases, also some BIOS/UEFI force it on, some have a option for it, different results between Intel/AMD CPUs... your results may vary, don't touch or test both options.
 
 
-## New tweak method: Run CMD as Admin:
+##### New tweak method: Run CMD as Admin:
 
 `bcdedit /set nx optout`
 
