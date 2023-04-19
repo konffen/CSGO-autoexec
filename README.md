@@ -158,5 +158,8 @@ Reboot after!
 Use Intelligent standby list cleaner (ISLC) to force 0.50 ms timer:
 https://www.wagnardsoft.com/ISLC/ISLC%20v1.0.2.2.exe
 
-#### Check for latency issues
+
+### Check for latency issues
 http://www.resplendence.com/latencymon
+
+If you have issues with your onboard audio (Realtek...) or NIC causing DPC Latency spikes try updating driver or try putting it in MSI-mode with the tool found here: https://forums.guru3d.com/threads/windows-line-based-vs-message-signaled-based-interrupts-msi-tool.378044/
