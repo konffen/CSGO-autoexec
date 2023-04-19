@@ -133,7 +133,7 @@ Old tweak method: Run CMD as Admin:
 
 bcdedit /set useplatformtick yes
 
-bcdedit /set disabledynamictick yes```
+bcdedit /set disabledynamictick yes´´´
 
 
 
@@ -145,7 +145,7 @@ bcdedit /deletevalue useplatformtick
 
 bcdedit /deletevalue useplatformclock
 
-bcdedit /set disabledynamictick yes```
+bcdedit /set disabledynamictick yes´´´
 
 
 
