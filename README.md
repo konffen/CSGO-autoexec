@@ -139,7 +139,7 @@ HPET has changed in newer Windows 10 releases, also some BIOS/UEFI force it on, 
 
 
 
-~~##Old tweak method: Run CMD as Admin:~~ 
+##### ~~Old tweak method: Run CMD as Admin:~~ 
 
 ~~`bcdedit /deletevalue useplatformclock`~~
 
