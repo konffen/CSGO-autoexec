@@ -124,7 +124,7 @@ Disables Windows Defender from scanning through game files...
 
 
 #### HPET
-HPET has changed in newer Windows 10 releases... your results may vary, don't touch or test both options.
+HPET has changed in newer Windows 10 releases, also some BIOS/UEFI force it on, some have a option for it, different results between Intel/AMD CPUs... your results may vary, don't touch or test both options.
 
 
 Old tweak method: Run CMD as Admin:
