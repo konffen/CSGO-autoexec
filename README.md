@@ -129,23 +129,23 @@ HPET has changed in newer Windows 10 releases, also some BIOS/UEFI force it on, 
 
 Old tweak method: Run CMD as Admin:
 
-`bcdedit /deletevalue useplatformclock
+```bcdedit /deletevalue useplatformclock
 
 bcdedit /set useplatformtick yes
 
-bcdedit /set disabledynamictick yes`
+bcdedit /set disabledynamictick yes```
 
 
 
 New tweak method: Run CMD as Admin:
 
-`bcdedit /set nx optout
+```bcdedit /set nx optout
 
 bcdedit /deletevalue useplatformtick
 
 bcdedit /deletevalue useplatformclock
 
-bcdedit /set disabledynamictick yes`
+bcdedit /set disabledynamictick yes```
 
 
 
