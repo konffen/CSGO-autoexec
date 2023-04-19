@@ -124,13 +124,29 @@ Disables Windows Defender from scanning through game files...
 
 
 #### HPET
-Disable HPET in Windows! Run CMD as Admin:
+HPET has changed in newer Windows 10 releases... your results may vary, don't touch or test both options.
+
+
+Old tweak method: Run CMD as Admin:
 
 bcdedit /deletevalue useplatformclock
 
 bcdedit /set useplatformtick yes
 
 bcdedit /set disabledynamictick yes
+
+
+
+New tweak method: Run CMD as Admin:
+
+bcdedit /set nx optout
+
+bcdedit /deletevalue useplatformtick
+
+bcdedit /deletevalue useplatformclock
+
+bcdedit /set disabledynamictick yes
+
 
 
 Reboot after!
